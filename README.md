@@ -7,31 +7,31 @@ This app is developed for android os and coded in the java language. This is a s
 
 **Operation Instructions:**
 
-![](HW1ColorApp/Capture1.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture1.PNG)
 
 Click on 'Change Color' button to generate a random color to write inside of the EditText object.
 
-![](HW1ColorApp/Capture2.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture2.PNG)
 
 To have the ability to draw, click on the 'Go to Drawing Panel' button.
 
-![](HW1ColorApp/Capture3.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture3.PNG)
  
 You have the ability to draw something inside of the panel. To choose a color to draw on the panel with, click the 'Pick Color' button. A dialog box will pop up which allows a user to select a unique color. Once you have the color you want, click on the 'select' option in the bottom right.
 
-![](HW1ColorApp/Capture4.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture4.PNG)
 
 There is also a 'custom' option in the bottom left of the dialog box.
 
-![](HW1ColorApp/Capture5.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture5.PNG)
 
 Once a color is selected you have the ability to draw with that color in the panel. 
 
-![](HW1ColorApp/Capture6.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture6.PNG)
 
 To clear the contents of the panel, click the 'Clear' button. To save the contents of the panel as a png file, click the 'Save' button. The saved image will appear in the images section of the file folder.
 
-![](HW1ColorApp/Capture7.PNG)
+![](https://github.com/JohnElmo/HW1ColorApp/blob/master/Capture7.PNG)
 
 To return to the first view, click on the 'Go to Change Color' button at the bottom of the UI. 
 
